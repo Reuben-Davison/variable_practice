@@ -1,8 +1,10 @@
-name = "shea"
+#name = "shea"
 town = "denver"
+=begin
 house = "red"
 age = 30
 dog_count = 2
+=end
 wife_count = 1
 height = 5.9
 weight = 190.5
